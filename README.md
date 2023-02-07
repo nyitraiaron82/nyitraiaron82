@@ -1,6 +1,6 @@
 # Xueming Zheng
 
-Shenyang, Liaoning, China, xueming19930220@gmail.com
+xueming19930220@gmail.com
 
 ## Summary
 
