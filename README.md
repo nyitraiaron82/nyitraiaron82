@@ -34,24 +34,6 @@ rocalex82@gmail.com
 - Cross-functional collaboration
 - Design patterns and principles
 
-## EXPERIENCE
-
-### ULTRADE - Full Stack Developer
-
-Feb 2022 - Current
-
-### XP.NETWORK - Blockchain Engineer
-
-Oct 2021 - Nov 2022
-
-### Imobisoft - Back End Developer
-
-Sep 2019 - Oct 2021
-
-### Odelan Infotech - Full Stack Developer
-
-May 2016 - Aug 2019
-
 ## EDUCATION
 
 - Northeastern University (CN) <br/> Bachelor's degree, Computational and Applied Mathematics
