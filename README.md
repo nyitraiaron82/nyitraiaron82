@@ -1,8 +1,8 @@
 # Xueming Zheng
 
-xueming19930220@gmail.com
+rocalex82@gmail.com
 
-## Summary
+## SUMMARY
 
 - Versatile software developer equally comfortable creating solutions for on-premise or cloud-based deployments. Exploits Agile development methodologies to rapidly iterate and improve products. Consistent provider of useful and actionable input on all projects.
 - Having 6+ years of experience in IT which includes analysis, design, development, and implementation of web applications using JAVA, Spring boot, PHP, JS/TS, and database and data warehousing development using MySQL and Oracle.
@@ -12,7 +12,7 @@ xueming19930220@gmail.com
 - Experienced in writing SQL Queries, functions, packages, tables, views, triggers.
 - Experience in building frameworks and automating complex workflows using Python, JS/TS, and Test Automation.
 
-## Skills
+## SKILLS
 
 - Object-oriented programming
 - JS frameworks: React, Angular
@@ -34,5 +34,29 @@ xueming19930220@gmail.com
 - Cross-functional collaboration
 - Design patterns and principles
 
-## Experience
+## EXPERIENCE
 
+### ULTRADE - Full Stack Developer
+
+Feb 2022 - Current
+
+### XP.NETWORK - Blockchain Engineer
+
+Oct 2021 - Nov 2022
+
+### Imobisoft - Back End Developer
+
+Sep 2019 - Oct 2021
+
+### Odelan Infotech - Full Stack Developer
+
+May 2016 - Aug 2019
+
+## EDUCATION
+
+- Northeastern University (CN) <br/> Bachelor's degree, Computational and Applied Mathematics
+
+## WEBSITES, PORTFOLIOS, PROFILES
+
+- https://github.com/rocalex
+- [Strengths Resume - Scoutible](https://hire.scoutible.com/profile/share/ag9zfnNjb3V0aWJsZS1hcHByEQsSBFVzZXIYgIDA-5D5pwgM)
