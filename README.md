@@ -36,7 +36,7 @@ rocalex82@gmail.com
 
 ## EDUCATION
 
-- Northeastern University (CN) <br/> Bachelor's degree, Computational and Applied Mathematics
+- Northeastern University (CN) <br/> Bachelor's degree, Computational and Applied Mathematics <br> 2011 - 2015
 
 ## WEBSITES, PORTFOLIOS, PROFILES
 
