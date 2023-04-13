@@ -33,8 +33,3 @@
 ## EDUCATION
 
 - Northeastern University (CN) <br/> Bachelor's degree, Computational and Applied Mathematics <br> 2011 - 2015
-
-## WEBSITES, PORTFOLIOS, PROFILES
-
-- https://github.com/rocalex
-- [Strengths Resume - Scoutible](https://hire.scoutible.com/profile/share/ag9zfnNjb3V0aWJsZS1hcHByEQsSBFVzZXIYgIDA-5D5pwgM)
