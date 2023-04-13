@@ -1,7 +1,3 @@
-# Xueming Zheng
-
-rocalex82@gmail.com
-
 ## SUMMARY
 
 - Versatile software developer equally comfortable creating solutions for on-premise or cloud-based deployments. Exploits Agile development methodologies to rapidly iterate and improve products. Consistent provider of useful and actionable input on all projects.
