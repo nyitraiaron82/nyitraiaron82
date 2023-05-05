@@ -10,10 +10,10 @@
 
 ## SKILLS
 
-- Object-oriented programming
-- JS frameworks: React, Angular
-- Programming languages: C++, Java, Python, Golang, Rust
-- Databases: MySQL, MongoDB
+- Backend Frameworks: Express.js, Spring Boot, Django, Laravel, Wordpress, Ruby on Rails, etc.
+- Frontend Frameworks: React, Next.js, Vue.js, Nuxt.js, Angular.
+- Programming languages: C++, Java, Python, Golang, Rust, PHP, JS/TS, Ruby, etc.
+- Databases: MySQL, MongoDB, PostgreSQL, Firebase
 - Agile/Scrum methodology
 - Amazon Web Services
 - Data structures and algorithms
@@ -23,7 +23,6 @@
 - Software deployment
 - Web programming
 - Debugging and troubleshooting
-- Scripting languages: PHP, Python, Javascript, and Typescript
 - New feature development
 - Requirements gathering and analysis
 - Project specifications
