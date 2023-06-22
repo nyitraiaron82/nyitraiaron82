@@ -28,7 +28,3 @@
 - Project specifications
 - Cross-functional collaboration
 - Design patterns and principles
-
-## EDUCATION
-
-- Northeastern University (CN) <br/> Bachelor's degree, Computational and Applied Mathematics <br> 2011 - 2015
